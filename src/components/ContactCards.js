@@ -7,9 +7,9 @@ export default function ContactCards() {
         <div>
         <Card className="card-border">
             <Card.Body>
-            <Card.Title><h3>Can I send you e-mail?</h3></Card.Title>
+            <Card.Title><h3>How to contact me?</h3></Card.Title>
             <Card.Text>
-                <h7>Yes, of course you can! Just send your message through yrfp307@gmail.com,
+                <h7>It's so simple! Just send your message through yrfp307@gmail.com,
                     or telegram @yrfp307 I'll be waiting! <br/>Thank you!
                 </h7>
             </Card.Text>
