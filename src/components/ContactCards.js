@@ -9,8 +9,8 @@ export default function ContactCards() {
             <Card.Body>
             <Card.Title><h3>How to contact me?</h3></Card.Title>
             <Card.Text>
-                <h7>It's so simple! Just send your message through yrfp307@gmail.com,
-                    or telegram @yrfp307 I'll be waiting! <br/>Thank you!
+                <h7>So simple! Just send your message through yrfp307@gmail.com
+                    or telegram @yrfp307<br/>Thank you!
                 </h7>
             </Card.Text>
             </Card.Body>
